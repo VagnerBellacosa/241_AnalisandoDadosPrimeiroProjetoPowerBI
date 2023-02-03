@@ -36,7 +36,8 @@ auto
 - CONTEÚDOS
 - INFORMAÇÕES
 
-[Analisando Dados com SQL Analytics e Power BI](https://web.dio.me/lab/analisando-dados-com-sql-analytics-e-power-bi/learning/75e3d085-0e55-48cc-928d-93c4a3fa9995)[Entendendo o desafio](https://web.dio.me/lab/analisando-dados-com-sql-analytics-e-power-bi/learning/3d0dab74-42cf-4fc3-8923-a14ecbeb40aa)
+- [Analisando Dados com SQL Analytics e Power BI](https://web.dio.me/lab/analisando-dados-com-sql-analytics-e-power-bi/learning/75e3d085-0e55-48cc-928d-93c4a3fa9995)
+- [Entendendo o desafio](https://web.dio.me/lab/analisando-dados-com-sql-analytics-e-power-bi/learning/3d0dab74-42cf-4fc3-8923-a14ecbeb40aa)
 
 
 
